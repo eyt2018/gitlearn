@@ -1,7 +1,4 @@
+<?php
+	echo "ji,ji,ji<br>:;
 
-<<<<<<< HEAD
-aaaa
-asdlkfj
-=======
-adfalkfja
->>>>>>> dev1
+
